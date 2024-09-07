@@ -1,6 +1,6 @@
 # Round-Robin Arbiter with Datapath and Controller in Verilog
 
-This repository contains a Verilog implementation of a round-robin arbiter with 8 channels. The arbiter uses a datapath and controller-based approach to handle requests and priorities in a sequential manner. It includes various registers, linkages, and comparators to manage the arbitration process.
+This repository contains a Verilog implementation of a round-robin arbiter with 8 channels. The arbiter uses a datapath and controller-based approach to handle requests and priorities in a sequential manner. It includes various registers, linkages,counters and comparators to manage the arbitration process.
 
 ## Overview
 
